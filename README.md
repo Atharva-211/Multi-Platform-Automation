@@ -1,7 +1,7 @@
 # Automation Engineering Internship Case Study Solution
 **WorkFlow Pro - B2B SaaS Platform Testing Assessment**
 
-*Submitted by: [Your Name]*  
+*Submitted by: Atharva Gaikwad*  
 *Date: July 24, 2025*
 
 ---
