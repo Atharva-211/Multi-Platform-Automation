@@ -25,7 +25,7 @@ This repository contains solutions to all three parts of the Automation Engineer
 - Covers tenant isolation, network handling, and BrowserStack usage
 - Includes fixtures, cleanup, and mobile verification
 
-### [Part 3 – API + UI Integration Test](./part3_integration_test.md)
+### [Technical Assumptions & Considerations](./Technical_Assumptions_Considerations.md)
 
 ---
 
