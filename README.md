@@ -27,6 +27,8 @@ This repository contains solutions to all three parts of the Automation Engineer
 
 ### [Technical Assumptions & Considerations](./Technical_Assumptions_Considerations.md)
 
+### [Multi-Platform-Automation.pdf](./Multi-Platform-Automation.pdf)
+
 ---
 
 ## 🛠️ Tech Stack
